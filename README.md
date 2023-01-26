@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parkerrudd
-- 👀 I’m interested in front-end web design. I love building web apps using HTML, CSS, and JavaScript. 
-- 🌱 I’m currently using ReactJS to build dynamic web applications and easy to adopt user interfaces. 
+- 👀 I’m a web and mobile app developer. 
+- 🌱 I have experience using Angular, React, and React Native to build dynamic web and mobile apps. 
 - 📫 You can reach me at my email, parkerbrudd@gmail.com, or on twitter, @parkerrudd. 
 <!-- - - 💞️ I’m looking to collaborate on ... -->
 
